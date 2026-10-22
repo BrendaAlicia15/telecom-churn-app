@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Nota: SÍ queremos subir el modelo entrenado (.pkl) y las columnas 
+# para que la app de Streamlit funcione al clonar el repositorio, 
+# por lo que no bloqueamos la carpeta src/ ni data/ (o puedes decidir si quieres subir el CSV o no).

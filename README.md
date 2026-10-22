@@ -7,6 +7,15 @@
 
 > **Aplicación End-to-End de Machine Learning** enfocada en la predicción y prevención proactiva de la cancelación de clientes (*Churn*) en empresas de telecomunicaciones. Alcanza un **95.24% de precisión (Accuracy)** y ofrece un **Dashboard Ejecutivo interactivo con recomendaciones de negocio automatizadas**.
 
+## 🖥️ Vista Previa del Dashboard Ejecutivo
+
+### 🟢 Cliente Estable (Bajo Riesgo de Churn)
+![Dashboard Estable](assets/positivo.jpg)
+
+### 🔴 Cliente en Alto Riesgo de Fuga (Alerta Crítica)
+![Dashboard Alerta](assets/negativo.jpg)
+
+
 ---
 
 ## 🎯 Problema de Negocio

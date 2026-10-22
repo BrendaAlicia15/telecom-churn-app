@@ -120,3 +120,5 @@ LinkedIn: https://www.linkedin.com/in/brenda-alicia-barreras-yepiz-7a5a463/
 Proyecto: Telecom Churn Prediction App
 
 Si este proyecto te resultó útil o interesante, ¡no dudes en darle una ⭐ en GitHub!
+# telecom-churn-app
+Aplicación End-to-End de Machine Learning (Random Forest) para predecir la cancelación de clientes (Churn) en telecomunicaciones con un 95% de precisión, desplegada con una interfaz interactiva en Streamlit.
